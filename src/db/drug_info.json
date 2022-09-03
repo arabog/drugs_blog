@@ -1,0 +1,139 @@
+[
+    {
+        "id": "1",
+        "image": "../img/drug0.jpg",
+        "drugName": "Augmentin",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "2",
+        "image": "../img/drug0.jpg",
+        "drugName": "Terbinafine",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "3",
+        "image": "../img/drug0.jpg",
+        "drugName": "Amatem Soft Gel",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "4",
+        "image": "../img/drug0.jpg",
+        "drugName": "Loperamide",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "5",
+        "image": "../img/drug0.jpg",
+        "drugName": "Orphensic",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "6",
+        "image": "../img/drug0.jpg",
+        "drugName": "Rocephin",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "7",
+        "image": "../img/drug0.jpg",
+        "drugName": "Omeprazole",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "8",
+        "image": "../img/drug0.jpg",
+        "drugName": "Septrin",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "9",
+        "image": "../img/drug0.jpg",
+        "drugName": "Neurofen",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "10",
+        "image": "../img/drug0.jpg",
+        "drugName": "Gascol",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "11",
+        "image": "../img/drug0.jpg",
+        "drugName": "Activated Charcoal",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "12",
+        "image": "../img/drug0.jpg",
+        "drugName": "Sildenafil",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "13",
+        "image": "../img/drug0.jpg",
+        "drugName": "Mega Vitamin C",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "14",
+        "image": "../img/drug0.jpg",
+        "drugName": "Diazepam",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    },
+
+    {
+        "id": "15",
+        "image": "../img/drug0.jpg",
+        "drugName": "Flora Norm",
+        "drugInfo" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus ex alias, sequi consectetur cum repellat ea dolore reiciendis. Maxime, asperiores.",
+        "category": "Antibiotics",
+        "uses": "Lorem ipsum dolor sit, amet consectetur"
+    }
+]
+
+
+
